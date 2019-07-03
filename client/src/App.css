@@ -1,0 +1,15 @@
+img {
+   min-width: 350px;
+    min-height: 300px !important;
+}
+
+.btn{
+    padding: 2px !important;
+}
+
+
+.incre,.decre{
+    width: 30px
+}
+
+  
